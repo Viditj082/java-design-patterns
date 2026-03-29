@@ -1,4 +1,4 @@
----
+8---
 title: "Adapter Pattern in Java: Seamless Integration of Incompatible Systems"
 shortTitle: Adapter
 description: "Learn how the Adapter Design Pattern works in Java with detailed examples and use cases. Understand how it enables compatibility between incompatible interfaces."

@@ -15,7 +15,7 @@ tag:
 ---
 
 ## Also known as
-
++
 * Surrogate
 
 ## Intent of Proxy Design Pattern
